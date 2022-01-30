@@ -4,7 +4,7 @@ public class numerosPrimos {
 
 public static void main(String[] args) {
 
-    int numero=Integer.parseInt(JOptionPane.showInputDialog("Introduce numeo entero"));
+    int numero=Integer.parseInt(JOptionPane.showInputDialog("Introduce numero entero"));
     
     esPrimo(numero);
 
